@@ -4,3 +4,5 @@ plugins:
 title: Calvin's Website
 description: just messin' around
 show_downloads: false
+github:
+  is_project_page: false
