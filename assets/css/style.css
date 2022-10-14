@@ -1,12 +1,7 @@
-
 @import "{{ site.theme }}";
 
-footer {
-  display: none !important;
-}
-
-.btn {
-  display: none !important;
+header {
+  display: none;
 }
 
 /* This is to remove the "View on github" button & the "This site is maintained by github pages" text. */
